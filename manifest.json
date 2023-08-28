@@ -1,33 +1,33 @@
 {
     "name": "BibooKira",
     "short_name": "BibooKira",
-    "theme_color": "#222831",
-    "background_color": "#ffad17",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
     "display": "standalone",
-    "Scope": "",
-    "start_url": "/index.html",
     "orientation": "portrait",
+    "Scope": "/",
+    "start_url": "/",
     "icons": [
         {
-            "src": "icons/manifest-icon-192.maskable.png",
+            "src": "src/assets/img/icons/manifest-icon-192.maskable.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "icons/manifest-icon-192.maskable.png",
+            "src": "src/assets/img/icons/manifest-icon-192.maskable.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "icons/manifest-icon-512.maskable.png",
+            "src": "src/assets/img/icons/manifest-icon-512.maskable.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "icons/manifest-icon-512.maskable.png",
+            "src": "src/assets/img/icons/manifest-icon-512.maskable.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
