@@ -1,12 +1,11 @@
 {
-    "name": "BibooKira",
-    "short_name": "BibooKira",
+    "name": "Biboo Kira",
+    "short_name": "Biboo Kira",
     "theme_color": "#000000",
     "background_color": "#ffffff",
     "display": "standalone",
     "orientation": "portrait",
-    "Scope": "/",
-    "start_url": "/",
+    "start_url": ".",
     "icons": [
         {
             "src": "src/assets/img/icons/manifest-icon-192.maskable.png",
